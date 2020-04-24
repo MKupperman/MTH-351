@@ -19,5 +19,6 @@ The majority of these codes are freely availible individually as part of homewor
 * Rootfinding
     - Bisection Method
     - Newton-Raphson (1 dimension)
+	- Secant
 
 Additional codes will be added as generated.
